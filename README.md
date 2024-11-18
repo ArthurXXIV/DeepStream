@@ -50,7 +50,16 @@
 
 ## Project Structure
 
-DeepStream/ │ ├── app.py # Main Streamlit app ├── models/ # Directory for deep learning models ├── requirements.txt # Python dependencies └── README.md # Project documentation
+DeepStream/
+
+│
+
+├── app.py # Main Streamlit app 
+
+├── models/ # Directory for deep learning models 
+
+├── requirements.txt # Python dependencies 
+      └── README.md # Project documentation
 
 
 ---
