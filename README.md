@@ -59,7 +59,8 @@ DeepStream/
 ├── models/ # Directory for deep learning models 
 
 ├── requirements.txt # Python dependencies 
-      └── README.md # Project documentation
+
+└── README.md # Project documentation
 
 
 ---
